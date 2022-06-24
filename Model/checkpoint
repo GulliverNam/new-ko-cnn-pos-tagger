@@ -1,0 +1,3 @@
+model_checkpoint_path: "CNN_POS_epoch2.model"
+all_model_checkpoint_paths: "CNN_POS_epoch1.model"
+all_model_checkpoint_paths: "CNN_POS_epoch2.model"
